@@ -1,2 +1,6 @@
 # ABM-CSharp
-Sistema ABM para la administracion de usuario en Facultad
+Sistema de altas, bajas y modificaciones.
+
+Realizado en C# y Sql Server
+
+
