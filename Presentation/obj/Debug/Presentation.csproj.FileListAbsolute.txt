@@ -1,0 +1,145 @@
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe.config
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.exe
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.LoginForm.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.MainForm.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormRecoverPassword.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\WinFormAnimation.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.xml
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.WelcomeForm.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormCalendar.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormHistory.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormPacients.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormReports.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserProfile.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormVerifyUser.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe.config
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.pdb
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.dll
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.dll
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.dll
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\WinFormAnimation.dll
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.dll
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.pdb
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.pdb
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.xml
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.pdb
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormPacients.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormRecoverPassword.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserProfile.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormVerifyUser.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.MainForm.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.exe
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.pdb
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.FmrLogin.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.FmrInicio.resources
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe.config
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.pdb
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.dll
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.dll
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.dll
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\WinFormAnimation.dll
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.dll
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.pdb
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.pdb
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.xml
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.pdb
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormPacients.resources
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormRecoverPassword.resources
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserProfile.resources
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormVerifyUser.resources
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.FmrLogin.resources
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.MainForm.resources
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.FmrInicio.resources
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.exe
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.pdb
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe.config
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.exe
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Presentation.pdb
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.dll
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.dll
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.dll
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\WinFormAnimation.dll
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.dll
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Common.pdb
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\Domain.pdb
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\CircularProgressBar.xml
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\bin\Debug\DataAccess.pdb
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.BaseForms.BaseFixedForm.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FmrAlumnoMantenimiento.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FrmAlumnos.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormRecoverPassword.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUserProfile.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.ChildForms.FormVerifyUser.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.FmrLogin.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.MainForm.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.FmrInicio.resources
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.exe
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Presentation\obj\Debug\Presentation.pdb
+D:\FinalProgramacion\Presentation\bin\Debug\Presentation.exe.config
+D:\FinalProgramacion\Presentation\bin\Debug\Presentation.exe
+D:\FinalProgramacion\Presentation\bin\Debug\Presentation.pdb
+D:\FinalProgramacion\Presentation\bin\Debug\CircularProgressBar.dll
+D:\FinalProgramacion\Presentation\bin\Debug\Common.dll
+D:\FinalProgramacion\Presentation\bin\Debug\Domain.dll
+D:\FinalProgramacion\Presentation\bin\Debug\WinFormAnimation.dll
+D:\FinalProgramacion\Presentation\bin\Debug\DataAccess.dll
+D:\FinalProgramacion\Presentation\bin\Debug\Common.pdb
+D:\FinalProgramacion\Presentation\bin\Debug\Domain.pdb
+D:\FinalProgramacion\Presentation\bin\Debug\CircularProgressBar.xml
+D:\FinalProgramacion\Presentation\bin\Debug\DataAccess.pdb
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.BaseForms.BaseFixedForm.resources
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.ChildForms.FmrAlumnoMantenimiento.resources
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.ChildForms.FrmAlumnos.resources
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.ChildForms.FormRecoverPassword.resources
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.ChildForms.FormUserMaintenance.resources
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.ChildForms.FormUserProfile.resources
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.ChildForms.FormUsers.resources
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.ChildForms.FormVerifyUser.resources
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.FmrLogin.resources
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.MainForm.resources
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.FmrInicio.resources
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.exe
+D:\FinalProgramacion\Presentation\obj\Debug\Presentation.pdb

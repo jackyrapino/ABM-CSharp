@@ -1,0 +1,23 @@
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.pdb
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.dll
+D:\RJ Code Advance\Store\CS- Login Project SQL -IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.pdb
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.dll
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.pdb
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.dll
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.pdb
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.dll
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.pdb
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.dll
+D:\Users\Jacky\Escritorio\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.pdb
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.dll
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\bin\Debug\Common.pdb
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.dll
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.pdb
+A:\Jacky\Escritorio\CS-Login_Project-SQL-IL (1)\CS-Login_Project-SQL-IL\FullLogin Capas CS SQL\Common\obj\Debug\Common.csproj.AssemblyReference.cache
